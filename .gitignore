@@ -1,0 +1,12 @@
+.venv/
+data/
+outputs/
+cache/
+*.db
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.isl_build_*/
